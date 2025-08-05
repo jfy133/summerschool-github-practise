@@ -8,6 +8,7 @@ Fork this repository, and add your name below!
 
 ## People
 
-The following people succesfully forked this repository, and opened a pull request, adding their name:
+These people succesfully forked this repository, and opened a pull request to add their name to the following list:
 
 - James Fellows Yates (@jfy133)
+- martin
